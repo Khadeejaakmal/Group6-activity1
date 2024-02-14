@@ -188,3 +188,7 @@ def main():
     turta.done()
     
 main()
+
+
+#Links to Repository:
+# https://github.com/Khadeejaakmal/Group6-activity1/blob/main/Group6-activity1.py
