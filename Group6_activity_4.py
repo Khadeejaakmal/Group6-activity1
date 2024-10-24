@@ -1,21 +1,7 @@
 """
-Group6_activity_4.py
+Activity_4.py
 
-Name of group members: Mohammad, Faisal, Khadija
-
-GitHub Links:
-
-
-
-Contribution of each member:
-
-Mohammad: Docstrings and Comments
-
-Faisal: 
-
-Khadija: 
-
-Describtion:
+Description:
 This program simulates an online shopping experience. 
 You can view available items, add them to your cart, remove items, and check out. 
 It calculates the total cost with discounts and taxes, providing a simple menu for these actions.
