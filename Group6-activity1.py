@@ -1,19 +1,7 @@
 """
-Group6-activity1.py
+activity1.py
 
-Name of group members: Mohammad, Faisal, Khadija
-
-Contribution of each member:
-
-Collectively we all contributed in the patterns function, and main function
-
-Mohammad: Square functions, comments and docstrings
-
-Faisal: Circle functions
-
-Khadija: Hexagon functions, x and y coordinates, and setPos functions
-
-Describtion:
+Description:
 The code creates an interactive program where users can input colors for shapes,
 and it generates a pattern of hexagons, circles, and squares arranged in three rows, 
 each with three repetitions of the shapes.
