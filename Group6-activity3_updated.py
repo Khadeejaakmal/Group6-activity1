@@ -1,20 +1,9 @@
 """
 Group6-activity3.py
 
-Name of group members: Mohammad, Faisal, Khadija
-
-GitHub Links:
 
 
-Contribution of each member:
-
-Mohammad: Stage 1 and 4, Docstrings
-
-Faisal: Stage 3 and main
-
-Khadija: Stage 2 and main
-
-Describtion:
+Description:
 This program helps you work with numbers in CSV files by loading, cleaning, sorting, and showing them in a simple way.
 
 """
